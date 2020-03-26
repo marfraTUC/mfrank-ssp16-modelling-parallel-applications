@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" type="CompositeModel" name="default.system_diagram" measurementUnit="Pixel">
+  <children xsi:type="notation:Shape" type="2002" fontName=".SF NS Text">
+    <children xsi:type="notation:DecorationNode" type="5012"/>
+    <children xsi:type="notation:DecorationNode" type="7002">
+      <children xsi:type="notation:Shape" type="3006" fontName=".SF NS Text">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName=".SF NS Text">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="default.repository#_BV2jwFPzEea2AoC5pjcnpA"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="default.system#__pzxUFP1Eea2AoC5pjcnpA"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="611" y="127"/>
+      </children>
+      <children xsi:type="notation:Shape" type="3006" fontName=".SF NS Text">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName=".SF NS Text">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="default.repository#_AZPKgFPzEea2AoC5pjcnpA"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3008" fontName=".SF NS Text">
+          <children xsi:type="notation:DecorationNode" type="5008">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="default.repository#_CJ524FPzEea2AoC5pjcnpA"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="default.system#_EEw5sFP2Eea2AoC5pjcnpA"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="211" y="43"/>
+      </children>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName=".SF NS Text">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="default.system#_CnlxEFP2Eea2AoC5pjcnpA"/>
+      <layoutConstraint xsi:type="notation:Bounds"/>
+    </children>
+    <element href="default.system#_NpR5sFPyEea2AoC5pjcnpA"/>
+    <layoutConstraint xsi:type="notation:Bounds" x="288" y="104" width="881" height="501"/>
+  </children>
+  <styles xsi:type="notation:DiagramStyle"/>
+  <element href="default.system#_NpR5sFPyEea2AoC5pjcnpA"/>
+  <edges xsi:type="notation:Connector" type="4006" source="//@children.0/@children.2" target="//@children.0/@children.1/@children.1/@children.1">
+    <styles xsi:type="notation:FontStyle" fontName=".SF NS Text"/>
+    <element href="default.system#_GQZDwFP2Eea2AoC5pjcnpA"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" points="[30, 0, -288, -95]$[311, 97, -7, 2]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" id="(0.0,0.7333333333333333)"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" id="(0.23333333333333334,0.6)"/>
+  </edges>
+  <edges xsi:type="notation:Connector" type="4004" source="//@children.0/@children.1/@children.1/@children.2" target="//@children.0/@children.1/@children.0/@children.1">
+    <styles xsi:type="notation:FontStyle" fontName=".SF NS Text"/>
+    <element href="default.system#_JFzxsFP2Eea2AoC5pjcnpA"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" points="[7, 0, -225, -84]$[225, 90, -7, 6]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" id="(1.0,1.0)"/>
+  </edges>
+</notation:Diagram>

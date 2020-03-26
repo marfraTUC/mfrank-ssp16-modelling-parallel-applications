@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:parameter="http://palladiosimulator.org/PalladioComponentModel/Parameter/5.1" xmlns:usagemodel="http://palladiosimulator.org/PalladioComponentModel/UsageModel/5.1" xsi:schemaLocation="http://palladiosimulator.org/PalladioComponentModel/Parameter/5.1 http://palladiosimulator.org/PalladioComponentModel/5.1#//parameter http://palladiosimulator.org/PalladioComponentModel/UsageModel/5.1 http://palladiosimulator.org/PalladioComponentModel/5.1#//usagemodel" xmi:id="_YxarwFPyEea2AoC5pjcnpA" type="PCM Usage Model" name="default.usagemodel_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_Vg5ZYFP2Eea2AoC5pjcnpA" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Vg5ZZVP2Eea2AoC5pjcnpA" type="5017"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Vg5ZZlP2Eea2AoC5pjcnpA" type="7012">
+      <children xmi:type="notation:Shape" xmi:id="_Vg6ngFP2Eea2AoC5pjcnpA" type="3014" fontName=".SF NS Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Vg6nglP2Eea2AoC5pjcnpA" type="7013">
+          <children xmi:type="notation:Node" xmi:id="_Vg6ng1P2Eea2AoC5pjcnpA" type="3001">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Vg6nhFP2Eea2AoC5pjcnpA"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_Vg6nhVP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_Vg6nhlP2Eea2AoC5pjcnpA"/>
+            <element xmi:type="usagemodel:Start" href="default.usagemodel#_YxT-ElPyEea2AoC5pjcnpA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vg6nh1P2Eea2AoC5pjcnpA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Vg7OkFP2Eea2AoC5pjcnpA" type="3002" fontName=".SF NS Text">
+            <element xmi:type="usagemodel:Stop" href="default.usagemodel#_YxT-E1PyEea2AoC5pjcnpA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vg7OkVP2Eea2AoC5pjcnpA" x="219" y="304"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bNWl4FP2Eea2AoC5pjcnpA" type="3003" fontName=".SF NS Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_bNXM8FP2Eea2AoC5pjcnpA" type="5004"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_bNXM8VP2Eea2AoC5pjcnpA" type="7002">
+              <children xmi:type="notation:Node" xmi:id="_dZuW0FP2Eea2AoC5pjcnpA" type="3012">
+                <children xmi:type="notation:DecorationNode" xmi:id="_dZuW1VP2Eea2AoC5pjcnpA" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_dZuW1lP2Eea2AoC5pjcnpA" type="7011">
+                  <children xmi:type="notation:Node" xmi:id="_gXd6UFP2Eea2AoC5pjcnpA" type="3013">
+                    <element xmi:type="parameter:VariableCharacterisation" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.0/@variableCharacterisation_VariableUsage.0"/>
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_gXd6UVP2Eea2AoC5pjcnpA"/>
+                  </children>
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_dZuW11P2Eea2AoC5pjcnpA" showTitle="true"/>
+                  <styles xmi:type="notation:SortingStyle" xmi:id="_dZuW2FP2Eea2AoC5pjcnpA"/>
+                  <styles xmi:type="notation:FilteringStyle" xmi:id="_dZuW2VP2Eea2AoC5pjcnpA"/>
+                </children>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_dZuW0VP2Eea2AoC5pjcnpA"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_dZuW0lP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+                <styles xmi:type="notation:LineStyle" xmi:id="_dZuW01P2Eea2AoC5pjcnpA"/>
+                <element xmi:type="parameter:VariableUsage" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dZuW1FP2Eea2AoC5pjcnpA"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_eFR1QFP2Eea2AoC5pjcnpA" type="3012">
+                <children xmi:type="notation:DecorationNode" xmi:id="_eFR1RVP2Eea2AoC5pjcnpA" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_eFR1RlP2Eea2AoC5pjcnpA" type="7011">
+                  <children xmi:type="notation:Node" xmi:id="_g_lDMFP2Eea2AoC5pjcnpA" type="3013">
+                    <element xmi:type="parameter:VariableCharacterisation" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.1/@variableCharacterisation_VariableUsage.0"/>
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_g_lDMVP2Eea2AoC5pjcnpA"/>
+                  </children>
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_eFR1R1P2Eea2AoC5pjcnpA" showTitle="true"/>
+                  <styles xmi:type="notation:SortingStyle" xmi:id="_eFR1SFP2Eea2AoC5pjcnpA"/>
+                  <styles xmi:type="notation:FilteringStyle" xmi:id="_eFR1SVP2Eea2AoC5pjcnpA"/>
+                </children>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_eFR1QVP2Eea2AoC5pjcnpA"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_eFR1QlP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+                <styles xmi:type="notation:LineStyle" xmi:id="_eFR1Q1P2Eea2AoC5pjcnpA"/>
+                <element xmi:type="parameter:VariableUsage" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eFR1RFP2Eea2AoC5pjcnpA"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_e2t5QFP2Eea2AoC5pjcnpA" type="3012">
+                <children xmi:type="notation:DecorationNode" xmi:id="_e2t5RVP2Eea2AoC5pjcnpA" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_e2t5RlP2Eea2AoC5pjcnpA" type="7011">
+                  <children xmi:type="notation:Node" xmi:id="_hVkhUFP2Eea2AoC5pjcnpA" type="3013">
+                    <element xmi:type="parameter:VariableCharacterisation" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.2/@variableCharacterisation_VariableUsage.0"/>
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_hVkhUVP2Eea2AoC5pjcnpA"/>
+                  </children>
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_e2t5R1P2Eea2AoC5pjcnpA" showTitle="true"/>
+                  <styles xmi:type="notation:SortingStyle" xmi:id="_e2t5SFP2Eea2AoC5pjcnpA"/>
+                  <styles xmi:type="notation:FilteringStyle" xmi:id="_e2t5SVP2Eea2AoC5pjcnpA"/>
+                </children>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_e2t5QVP2Eea2AoC5pjcnpA"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_e2t5QlP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+                <styles xmi:type="notation:LineStyle" xmi:id="_e2t5Q1P2Eea2AoC5pjcnpA"/>
+                <element xmi:type="parameter:VariableUsage" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.2"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2t5RFP2Eea2AoC5pjcnpA"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_f02VcFP2Eea2AoC5pjcnpA" type="3012">
+                <children xmi:type="notation:DecorationNode" xmi:id="_f02VdVP2Eea2AoC5pjcnpA" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_f02VdlP2Eea2AoC5pjcnpA" type="7011">
+                  <children xmi:type="notation:Node" xmi:id="_hqYTsFP2Eea2AoC5pjcnpA" type="3013">
+                    <element xmi:type="parameter:VariableCharacterisation" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.3/@variableCharacterisation_VariableUsage.0"/>
+                    <layoutConstraint xmi:type="notation:Location" xmi:id="_hqYTsVP2Eea2AoC5pjcnpA"/>
+                  </children>
+                  <styles xmi:type="notation:TitleStyle" xmi:id="_f02Vd1P2Eea2AoC5pjcnpA" showTitle="true"/>
+                  <styles xmi:type="notation:SortingStyle" xmi:id="_f02VeFP2Eea2AoC5pjcnpA"/>
+                  <styles xmi:type="notation:FilteringStyle" xmi:id="_f02VeVP2Eea2AoC5pjcnpA"/>
+                </children>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_f02VcVP2Eea2AoC5pjcnpA"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_f02VclP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+                <styles xmi:type="notation:LineStyle" xmi:id="_f02Vc1P2Eea2AoC5pjcnpA"/>
+                <element xmi:type="parameter:VariableUsage" href="default.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.3"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f02VdFP2Eea2AoC5pjcnpA"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_bNXM8lP2Eea2AoC5pjcnpA"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_bNXM81P2Eea2AoC5pjcnpA"/>
+            </children>
+            <element xmi:type="usagemodel:EntryLevelSystemCall" href="default.usagemodel#_ZLjtQFP2Eea2AoC5pjcnpA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bNWl4VP2Eea2AoC5pjcnpA" x="35" y="40"/>
+          </children>
+        </children>
+        <element xmi:type="usagemodel:ScenarioBehaviour" href="default.usagemodel#_YxT-EVPyEea2AoC5pjcnpA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vg6ngVP2Eea2AoC5pjcnpA" width="305" height="367"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_u46xkFP2Eea2AoC5pjcnpA" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_u46xlVP2Eea2AoC5pjcnpA" type="5013"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_u46xllP2Eea2AoC5pjcnpA" type="5014"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_u46xl1P2Eea2AoC5pjcnpA" type="5015"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_u46xkVP2Eea2AoC5pjcnpA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_u46xklP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_u46xk1P2Eea2AoC5pjcnpA"/>
+        <element xmi:type="usagemodel:ClosedWorkload" href="default.usagemodel#//@usageScenario_UsageModel.0/@workload_UsageScenario"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u46xlFP2Eea2AoC5pjcnpA" x="332" y="26"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Vg5ZYVP2Eea2AoC5pjcnpA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Vg5ZYlP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_Vg5ZY1P2Eea2AoC5pjcnpA"/>
+    <element xmi:type="usagemodel:UsageScenario" href="default.usagemodel#_YxT-EFPyEea2AoC5pjcnpA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vg5ZZFP2Eea2AoC5pjcnpA" x="296" y="128" width="513" height="425"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_YxarwVPyEea2AoC5pjcnpA"/>
+  <element xmi:type="usagemodel:UsageModel" href="default.usagemodel#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_sQsLEFP2Eea2AoC5pjcnpA" type="4002" source="_Vg6ng1P2Eea2AoC5pjcnpA" target="_bNWl4FP2Eea2AoC5pjcnpA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_sQsLEVP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sQsLElP2Eea2AoC5pjcnpA" points="[0, 0, -86, -37]$[78, 20, -8, -17]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sQuAQFP2Eea2AoC5pjcnpA" id="(1.0,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sQuAQVP2Eea2AoC5pjcnpA" id="(0.30603448275862066,0.07264957264957266)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_tT2RMFP2Eea2AoC5pjcnpA" type="4002" source="_bNWl4FP2Eea2AoC5pjcnpA" target="_Vg7OkFP2Eea2AoC5pjcnpA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_tT2RMVP2Eea2AoC5pjcnpA" fontName=".SF NS Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tT2RMlP2Eea2AoC5pjcnpA" points="[129, 234, -26, -45]$[156, 294, 1, 15]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tT24QFP2Eea2AoC5pjcnpA" id="(0.1896551724137931,0.0)"/>
+  </edges>
+</notation:Diagram>

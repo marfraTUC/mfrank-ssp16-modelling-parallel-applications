@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.1" id="_WFClEFPyEea2AoC5pjcnpA" entityName="defaultAllocation">
+  <targetResourceEnvironment_Allocation href="default.resourceenvironment#/"/>
+  <system_Allocation href="default.system#_NpR5sFPyEea2AoC5pjcnpA"/>
+  <allocationContexts_Allocation id="_S3E3cFP2Eea2AoC5pjcnpA" entityName="Allocation_Assembly_MatrixMultiplicator &lt;MatrixMultiplicator> &lt;MatrixMultiplicator>">
+    <resourceContainer_AllocationContext href="default.resourceenvironment#_K9EOQFP2Eea2AoC5pjcnpA"/>
+    <assemblyContext_AllocationContext href="default.system#__pzxUFP1Eea2AoC5pjcnpA"/>
+  </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_TzdnMFP2Eea2AoC5pjcnpA" entityName="Allocation_Assembly_ExperimentHandler &lt;ExperimentHandler> &lt;ExperimentHandler>">
+    <resourceContainer_AllocationContext href="default.resourceenvironment#_K9EOQFP2Eea2AoC5pjcnpA"/>
+    <assemblyContext_AllocationContext href="default.system#_EEw5sFP2Eea2AoC5pjcnpA"/>
+  </allocationContexts_Allocation>
+</allocation:Allocation>

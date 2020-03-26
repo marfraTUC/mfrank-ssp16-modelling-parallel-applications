@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="_NpR5sFPyEea2AoC5pjcnpA" entityName="defaultSystem">
+  <assemblyContexts__ComposedStructure id="__pzxUFP1Eea2AoC5pjcnpA" entityName="Assembly_MatrixMultiplicator &lt;MatrixMultiplicator>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="default.repository#_eldG8FPyEea2AoC5pjcnpA"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_EEw5sFP2Eea2AoC5pjcnpA" entityName="Assembly_ExperimentHandler &lt;ExperimentHandler>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="default.repository#_dSpbQFPyEea2AoC5pjcnpA"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_GQZDwFP2Eea2AoC5pjcnpA" entityName="ProvDelegation Provided_IExperimentHandler -> Provided_IExperimentHandler_ExperimentHandler" outerProvidedRole_ProvidedDelegationConnector="_CnlxEFP2Eea2AoC5pjcnpA" assemblyContext_ProvidedDelegationConnector="_EEw5sFP2Eea2AoC5pjcnpA">
+    <innerProvidedRole_ProvidedDelegationConnector href="default.repository#_AZPKgFPzEea2AoC5pjcnpA"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_JFzxsFP2Eea2AoC5pjcnpA" entityName="Connector Assembly_ExperimentHandler &lt;ExperimentHandler> -> Assembly_MatrixMultiplicator &lt;MatrixMultiplicator>" requiringAssemblyContext_AssemblyConnector="_EEw5sFP2Eea2AoC5pjcnpA" providingAssemblyContext_AssemblyConnector="__pzxUFP1Eea2AoC5pjcnpA">
+    <providedRole_AssemblyConnector href="default.repository#_BV2jwFPzEea2AoC5pjcnpA"/>
+    <requiredRole_AssemblyConnector href="default.repository#_CJ524FPzEea2AoC5pjcnpA"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_CnlxEFP2Eea2AoC5pjcnpA" entityName="Provided_IExperimentHandler">
+    <providedInterface__OperationProvidedRole href="default.repository#_f0wLoFPyEea2AoC5pjcnpA"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>
